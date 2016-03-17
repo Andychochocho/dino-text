@@ -1,0 +1,22 @@
+{
+  "name": "dino-text",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "andrew <student@epicodus.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6"
+  }
+}
